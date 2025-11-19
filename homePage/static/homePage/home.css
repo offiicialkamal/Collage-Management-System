@@ -1,0 +1,40 @@
+/* body{
+    background-color: red;
+} */
+.header{
+    width:98%;
+    background-color: gray;
+    margin-left:auto;
+    margin-right:auto;
+    borde:none;
+    border-radius:10px;
+    height: 40px;
+    overflow:hidden;
+}
+.nav {
+    display:flex;
+    flex-direction:row;
+    margin-top:auto;
+    margin-bottom:auto;   
+    height: 100%;
+}
+
+.nav-data1{
+    background-color:red;
+    height: 100%;
+}
+.nav-data2 {
+    border: none;
+    height:50%;
+    display:flex;
+    flex-direction: row;
+    column-gap: 5%;
+    width:100%;
+    background-color:green;
+    margin-top: 0px;
+}
+
+.a1{
+    background-color:#64c497;
+    border: 1px solid black;
+}
